@@ -1,0 +1,145 @@
+Test of host-parasite coevolution 
+ 
+Global test:  ParaFitGlobal = 0.2039931 , p-value = 0.001 ( 999 permutations) 
+ 
+There are 68 host-parasite links in matrix HP 
+ 
+Test of individual host-parasite links ( 999 permutations) 
+ 
+      Host Parasite       F1.stat  p.F1 F2.stat p.F2
+ [1,]    1       56 -0.0006900640 0.829      NA   NA
+ [2,]    1       57 -0.0006892005 0.809      NA   NA
+ [3,]    1       58 -0.0007268334 0.808      NA   NA
+ [4,]    1       59  0.0022413754 0.193      NA   NA
+ [5,]    1       60  0.0020638976 0.122      NA   NA
+ [6,]    1       61  0.0020638976 0.106      NA   NA
+ [7,]    1       62  0.0021709544 0.091      NA   NA
+ [8,]    1       63  0.0021709544 0.089      NA   NA
+ [9,]    1       64  0.0021709544 0.106      NA   NA
+[10,]    1       65  0.0021951856 0.093      NA   NA
+[11,]    2        1  0.0103937742 0.001      NA   NA
+[12,]    2        2  0.0083693134 0.001      NA   NA
+[13,]    2        3  0.0117156986 0.001      NA   NA
+[14,]    2        4  0.0117334910 0.001      NA   NA
+[15,]    2        5  0.0111435767 0.001      NA   NA
+[16,]    2        6  0.0116494221 0.001      NA   NA
+[17,]    2        7  0.0118051153 0.001      NA   NA
+[18,]    3       66  0.0037303935 0.025      NA   NA
+[19,]    3       67  0.0021739961 0.051      NA   NA
+[20,]    3       68  0.0046720830 0.011      NA   NA
+[21,]    3       69  0.0043113871 0.018      NA   NA
+[22,]    3       70  0.0038124222 0.017      NA   NA
+[23,]    4       12  0.0014498289 0.085      NA   NA
+[24,]    4       13  0.0041198448 0.012      NA   NA
+[25,]    4       14  0.0038070286 0.017      NA   NA
+[26,]    4       15  0.0034306643 0.018      NA   NA
+[27,]    4       16  0.0034887597 0.014      NA   NA
+[28,]    4       17  0.0038244486 0.019      NA   NA
+[29,]    4       18  0.0051423479 0.005      NA   NA
+[30,]    4       19  0.0051423479 0.006      NA   NA
+[31,]    4       20  0.0050211938 0.006      NA   NA
+[32,]    4       21  0.0052891275 0.005      NA   NA
+[33,]    5       22  0.0074245876 0.001      NA   NA
+[34,]    5       23  0.0062347348 0.002      NA   NA
+[35,]    5       24  0.0063861538 0.001      NA   NA
+[36,]    5       25  0.0063861538 0.002      NA   NA
+[37,]    5       26  0.0063861538 0.004      NA   NA
+[38,]    5       27  0.0076839185 0.001      NA   NA
+[39,]    5       28  0.0078302626 0.001      NA   NA
+[40,]    5       29  0.0074827303 0.001      NA   NA
+[41,]    5       30  0.0075654763 0.001      NA   NA
+[42,]    5       31  0.0077427406 0.001      NA   NA
+[43,]    5       32  0.0076510056 0.001      NA   NA
+[44,]    5       33  0.0069864772 0.001      NA   NA
+[45,]    5       34  0.0079021401 0.001      NA   NA
+[46,]    5       35  0.0076043834 0.001      NA   NA
+[47,]    6       46  0.0102092524 0.002      NA   NA
+[48,]    6       47  0.0103629242 0.001      NA   NA
+[49,]    6       48  0.0102788727 0.001      NA   NA
+[50,]    6       49  0.0100679507 0.002      NA   NA
+[51,]    6       50  0.0100285327 0.001      NA   NA
+[52,]    6       51  0.0101154226 0.001      NA   NA
+[53,]    6       52  0.0101779905 0.002      NA   NA
+[54,]    6       53  0.0099990071 0.002      NA   NA
+[55,]    7       36  0.0003810054 0.571      NA   NA
+[56,]    7       37  0.0029596834 0.079      NA   NA
+[57,]    7       38  0.0036733037 0.035      NA   NA
+[58,]    7       39  0.0034328441 0.045      NA   NA
+[59,]    7       40  0.0036397325 0.036      NA   NA
+[60,]    7       41  0.0016983885 0.116      NA   NA
+[61,]    7       42  0.0006659539 0.453      NA   NA
+[62,]    7       43 -0.0012078244 0.911      NA   NA
+[63,]    7       44 -0.0011488050 0.880      NA   NA
+[64,]    7       45 -0.0014849771 0.906      NA   NA
+[65,]    8        8  0.0069776763 0.002      NA   NA
+[66,]    8        9  0.0070902806 0.001      NA   NA
+[67,]    8       10  0.0070202340 0.001      NA   NA
+[68,]    8       11  0.0069322650 0.001      NA   NA
+
+ Number of parasites per host 
+   NC_020648.1:14159-15298 CYTB [organism=Mephitis mephitis] [GeneID=14841949] [chromosome=MT] 
+                                                                                            10 
+   NC_022423.1:14140-15279 CYTB [organism=Desmodus rotundus] [GeneID=17046636] [chromosome=MT] 
+                                                                                             7 
+          NC_008092.1:14186-15325 CYTB [organism=Canis lupus] [GeneID=4097763] [chromosome=MT] 
+                                                                                             5 
+NC_002008.4:14183-15322 CYTB [organism=Canis lupus familiaris] [GeneID=804486] [chromosome=MT] 
+                                                                                            10 
+        NC_008434.1:14185-15324 CYTB [organism=Vulpes vulpes] [GeneID=4355756] [chromosome=MT] 
+                                                                                            14 
+             NC_009126.1:1-1140 CYTB [organism=Procyon lotor] [GeneID=4924853] [chromosome=MT] 
+                                                                                             8 
+          NC_012920.1:14747-15887 MT-CYB [organism=Homo sapiens] [GeneID=4519] [chromosome=MT] 
+                                                                                            10 
+  NC_016871.1:14163-15302 CYTB [organism=Artibeus lituratus] [GeneID=11669733] [chromosome=MT] 
+                                                                                             4 
+
+ Number of hosts per parasite 
+Bat_Phy_AF351847_N_1986 Bat_Phy_AF351850_N_1988 Bat_Phy_AF351852_N_1995 
+                      1                       1                       1 
+Bat_Phy_AY854587_N_1996 Bat_Phy_AY854588_N_1995 Bat_Phy_AY877434_N_1995 
+                      1                       1                       1 
+Bat_Phy_AY877435_N_1993 Bat_Phy_AB117969_N_1998 Bat_Phy_AB117970_N_1998 
+                      1                       1                       1 
+Bat_Phy_AB117971_N_1998 Bat_Phy_AB117972_N_1998 Dog_Cfa_AB041966_N_1996 
+                      1                       1                       1 
+Dog_Cfa_AB178892_N_1985 Dog_Cfa_AB178893_N_1985 Dog_Cfa_AB178894_N_1985 
+                      1                       1                       1 
+Dog_Cfa_AB178895_N_1977 Dog_Cfa_AB178896_N_1963 Dog_Cfa_AB284509_N_2000 
+                      1                       1                       1 
+Dog_Cfa_AB284510_N_1999 Dog_Cfa_AB284511_N_2000 Dog_Cfa_AB284512_N_2005 
+                      1                       1                       1 
+Fox_VvE_EU293115_N_1991 Fox_VvE_EU886631_N_2001 Fox_VvE_EU886632_N_2002 
+                      1                       1                       1 
+Fox_VvE_EU886633_N_2004 Fox_VvE_EU886634_N_2004   Fox_VvE_U42605_N_1984 
+                      1                       1                       1 
+  Fox_VvE_U42606_N_1989   Fox_VvE_U42607_N_1994   Fox_VvE_U42700_N_1994 
+                      1                       1                       1 
+  Fox_VvE_U42701_N_1991   Fox_VvE_U42702_N_1991   Fox_VvE_U42703_N_1976 
+                      1                       1                       1 
+  Fox_VvE_U42706_N_1986   Fox_VvE_U43433_N_1974 Hum_Hsa_AB041965_N_1996 
+                      1                       1                       1 
+Hum_Hsa_AF045166_N_1996 Hum_Hsa_AF394875_N_1995 Hum_Hsa_AF394879_N_1994 
+                      1                       1                       1 
+Hum_Hsa_AF394882_N_1994 Hum_Hsa_AY352462_N_1998 Hum_Hsa_AY352493_N_1988 
+                      1                       1                       1 
+Hum_Hsa_DQ666288_N_2004 Hum_Hsa_DQ666320_N_2004 Hum_Hsa_DQ837382_N_1997 
+                      1                       1                       1 
+Rac_Plo_DQ886058_N_2003 Rac_Plo_DQ886059_N_2003 Rac_Plo_DQ886060_N_2004 
+                      1                       1                       1 
+Rac_Plo_DQ886061_N_2003 Rac_Plo_DQ886062_N_1984 Rac_Plo_DQ886063_N_1985 
+                      1                       1                       1 
+Rac_Plo_DQ886064_N_1989 Rac_Plo_DQ886065_N_1992 Rac_Plo_DQ886066_N_1992 
+                      1                       1                       0 
+Rac_Plo_DQ886067_N_1994 Sku_Mme_AF344304_N_1992 Sku_Mme_AF344306_N_1992 
+                      0                       1                       1 
+Sku_Mme_AF461045_N_1998 Sku_Mme_AF483524_N_2001 Sku_Mme_AY170402_N_2001 
+                      1                       1                       1 
+Sku_Mme_AY170403_N_2001 Sku_Mme_AY170406_N_2001 Sku_Mme_AY170407_N_2001 
+                      1                       1                       1 
+Sku_Mme_AY170408_N_2001 Sku_Mme_AY170409_N_2001 Wol_Clu_AY352483_N_2004 
+                      1                       1                       1 
+Wol_Clu_AY352486_N_1995 Wol_Clu_DQ837454_N_2005 Wol_Clu_DQ837473_N_1997 
+                      1                       1                       1 
+Wol_Clu_EF614256_N_2006 
+                      1 
